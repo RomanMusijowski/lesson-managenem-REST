@@ -1,0 +1,6 @@
+com\roman_musijowski\pgs_lessons\services\serviccRestFull\UserServiceRestImpIT.class
+com\roman_musijowski\pgs_lessons\controllers\LessonControllerTest.class
+com\roman_musijowski\pgs_lessons\controllers\UserControllerTest.class
+com\roman_musijowski\pgs_lessons\services\serviccRestFull\UserServiceRestImpTest.class
+com\roman_musijowski\pgs_lessons\security\PasswordEncoderProviderTest.class
+com\roman_musijowski\pgs_lessons\controllers\AbstractRestControllerTest.class
